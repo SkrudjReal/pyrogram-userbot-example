@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "epidemic-userbot"
+version = "0.1.0"
+description = ""
+authors = ["Scrooge <76687908+SkrudjReal@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyrogram = "^2.0.106"
+tgcrypto = "^1.2.5"
+uvloop = "^0.19.0"
+asyncio = "^3.4.3"
+logging = "^0.4.9.6"
+environs = "^11.0.0"
+sqlalchemy = "^2.0.30"
+alembic = "^1.13.1"
+aiomysql = "^0.2.0"
+pydantic = "^2.7.3"
+pydantic-settings = "^2.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
