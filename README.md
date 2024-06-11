@@ -1,6 +1,7 @@
 # epidemic-userbot
 
 This is small example or template my userbot on pyrogram. You can use it for own or commercial purpose.
+Pyrogram+SQLAlchemy+Aiomysql
 
 ## Installation 
 
