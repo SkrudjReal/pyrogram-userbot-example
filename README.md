@@ -5,7 +5,7 @@ This is small example or template my userbot on pyrogram. You can use it for own
 ## Installation 
 
 <ul>
-    <li>1. Change secret_data.exapmle.env to > secret_data.exapmle.env</li>
+    <li>1. Change secret_data.exapmle.env to > secret_data.env and fill necessery colums</li>
     <li>2. Install depedency</li>
     <code>poetry install --no-root</code>
     <li>3. Run app.py</li>
